@@ -39,13 +39,13 @@ $ pip install mechanize
 $ pip install lolcat
 $ pip install BeautifulSoup
 $ pkg install git
-$ git clone https://github.com/James404-cyber/HACKPRO.git
-$ cd HACKPRO
+$ git clone https://github.com/DavidChinedu23/Fuck-HackPro
+$ cd Fuck-HackPro
 $ python Prohack.py
 
 Api Key :
 
-Note: This One Paid Tools, So You Take First Approval For Using This Tools
+Note: This One Paid Tools is now free. So You Take don't need First Approval For Using This Tools
  
 
 
@@ -54,7 +54,7 @@ Note: This One Paid Tools, So You Take First Approval For Using This Tools
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/HACKPRO.git ; cd HACKPRO ; python2 hakepro.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/DavidChinedu23/Fuck-HackPro ; cd Fuck-HackPro ; python Prohack.py
 ```
  Note: (This One Paid Tools, So You Take First Approval For Using This Tools)</br>
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
